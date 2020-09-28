@@ -1,0 +1,53 @@
+name: github pages
+
+on:
+  push:
+    branches-ignore:
+      - '**'
+    tags:
+      - 'v*.*.*'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-18.04
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12'
+
+      - name: Setup swarm
+        run: |
+          printf ${{ secrets.KEY_PASS }} > password
+          mkdir -p ${HOME}/.ethereum/keystore
+          printf ${{ secrets.KEY_FILE }} > ${HOME}/.ethereum/keystore/UTC--2020-09-28T09-08-55.862164353Z--2fc762ce90505c7cedd2b0c31134843f97ff3026
+          wget https://ethswarm.blob.core.windows.net/builds/swarm-linux-amd64-0.5.7-5ccfd995.tar.gz -O swarm.tar.gz
+          tar --strip-components 1 -xzf swarm.tar.gz
+
+      - name: Build for gh-pages
+        run: |
+          yarn
+          yarn build
+          echo "enterprise.ethswarm.org" > ./build/CNAME
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
+
+      - name: Build for swarm
+        run: |
+          rm -rf build
+          sed -i "s/baseUrl: '\/'/baseUrl: '\/bzz:\/enterprise\.swarm\.eth\/'/g" docusaurus.config.js
+          yarn
+          yarn build
+          rm ./build/.nojekyll
+
+      - name: Swarm upload
+        run: |
+          FEED=$(./swarm --bzzapi https://swarm-public-0-swarm.prod.swarm-gateways.net --verbosity 6 --recursive --defaultpath ./build/index.html up ./build)
+          ./swarm --bzzapi https://swarm-gateways.net/ --verbosity 6 --password password feed update 0x"${FEED}"
