@@ -24,6 +24,14 @@ $ yarn build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
+### Or, alternatively with npm
+
+```
+npm i >> Installation
+npm run build >> generates html
+npm run serve >> test build files
+```
+
 ### Deployment
 
 ```
