@@ -1,12 +1,12 @@
 module.exports = {
   title: 'Swarm Enterprise Hub',
   tagline: 'Swarm Enterprise Hub addresses questions that are relevant for enterprise use of Swarm such as regulatory compliance, GDPR, privacy, security and enterprise use-cases.',
-  url: 'https://etnerprise.ethswarm.org',
+  url: 'https://enterprise.ethswarm.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/swarm_logo.png',
   organizationName: 'Swarm Association', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'enterprise.ethswarm.org', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Swarm Enterprise Hub',
@@ -45,16 +45,16 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'BeeHive',
+              href: 'https://beehive.ethswarm.org/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Reddit',
+              href: 'https://www.reddit.com/r/ethswarm',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://twitter.com/ethswarm',
             },
           ],
         },
@@ -63,7 +63,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/ethersphere/',
             },
           ],
         },
@@ -79,7 +79,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/ethersphere/enterprise.github.io/edit/master/',
         },
         blog: {
           showReadingTime: true,
