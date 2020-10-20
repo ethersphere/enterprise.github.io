@@ -3,6 +3,8 @@ id: gdpr
 title: GDPR
 sidebar_label: GDPR requirements (Draft)
 slug: /gdpr
+draft: true
+
 ---
 
 Swarm is built as a global peer-to-peer storage based on blockchain and smart contracts. From a legal perspective, it means that its operations will be subject to many different national laws depending on the citizenship of the person whose personal data is stored on Swarm or, for example, the location of the company processing personal data using Swarm. In such cases the common approach for a lawyer is to choose the strictest applicable regulation and ensure that the solution under development complies with it. In the privacy area GDPR [(*EUR-Lex - 32016R0679 - EN - EUR-Lex*, n.d.)](https://www.zotero.org/google-docs/?XSdvd7) is viewed by most of the experts as one of the leading regulations worldwide with a special focus on the interests of the people whose personal data is being processed. So we decided to choose GDPR as a compass in the privacy ocean. Below we will briefly describe the essence of the GDPR regulations and in the following chapters of this Whitepaper we will also share our view on how Swarm helps to comply with different GDPR rules or how it should be treated from GDPR perspective itself.

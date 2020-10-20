@@ -1,8 +1,10 @@
 ---
 id: fairdrive
-title: Fairdrive 
+title: Fairdrive
 sidebar_label: Fairdrive - personal data store
 slug: /fairdrive
+draft: true
+
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 

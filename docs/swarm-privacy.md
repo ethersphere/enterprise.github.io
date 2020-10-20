@@ -3,6 +3,8 @@ id: swarm-privacy
 title: Swarm specific privacy features
 sidebar_label: Swarm specific privacy features
 slug: /swarm-privacy
+draft: true
+
 ---
 
 As a decentralized peer-to-peer storage Swarm provides for unique opportunities described in this Whitepaper. By being cutting-edge technology Swarm presents certain challenges from the regulation perspective. When drafted and enacted, even the most contemporary laws like GDPR have not taken into account blockchain technology and smart contracts. As the experts and regulators worldwide are discussing the routes to apply current rules to these technologies we decided to share our opinion on these matters with regard to Swarm [(*Blockchain and the GDPR*, n.d.)](https://www.zotero.org/google-docs/?f8QFg4).

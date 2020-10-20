@@ -3,6 +3,8 @@ id: problems
 title: Problems
 sidebar_label: Problems
 slug: /problems
+draft: true
+
 ---
 
 Problems

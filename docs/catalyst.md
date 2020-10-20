@@ -3,6 +3,7 @@ id: catalyst
 title: Swarm as the catalyst for change
 sidebar_label: Swarm as the catalyst for change
 slug: /catalyst
+draft: true
 ---
 
 
@@ -12,6 +13,8 @@ Individuals as the point of integration
 ---------------------------------------
 
 ***“I want my data to mean more than just be used to serve me adds!”***
+
+:::tip Key takeaways
 
 **Key takeaways:**
 
@@ -24,6 +27,8 @@ Individuals as the point of integration
 -   **Individual can use Swarm to gain self-sovereignty and privacy of their data.**
 
 -   **Companies will need to adopt human centric data model to regain trust.**
+
+:::
 
 Individuals are facing a digital identity crisis. Their personal data is used by the data hoarders and they have no control over it. It is being used and misused, even leaked and hacked into. They often do not have access to it, or even if they do, they would not know what to do with it. The **guarantee of privacy** is not under their control, **based only on the trust they have towards the companies holding their data**, which is quickly decaying. The services they are getting in return are seemingly free, although in the background they are really paying with their time and attention, getting endless cookie consents as they are being served advertisements based on their digital twin profile built around their data, usually with little meaning but destroying the experience.
 

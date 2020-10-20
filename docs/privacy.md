@@ -3,6 +3,8 @@ id: privacy
 title: Privacy and legal considerations
 sidebar_label: Privacy and legal considerations
 slug: /privacy
+draft: true
+
 ---
 
 **Key takeaways:**

@@ -3,6 +3,8 @@ id: fairos
 title: FairOS decentralized file storage
 sidebar_label: FairOS - decentralized file storage
 slug: /fairos
+draft: true
+
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 

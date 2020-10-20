@@ -1,8 +1,10 @@
 ---
 id: new-paradigm
-title: New paradigm for software development 
-sidebar_label: New paradigm for software development 
+title: New paradigm for software development
+sidebar_label: New paradigm for software development
 slug: /new-paradigm
+draft: true
+
 ---
 
 **Key takeaways:**

@@ -1,8 +1,10 @@
 ---
 id: data-spaces
-title: EU Data spaces for vertical integration 
+title: EU Data spaces for vertical integration
 sidebar_label: EU Data spaces
 slug: /data-spaces
+draft: true
+
 ---
 
 

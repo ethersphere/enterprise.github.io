@@ -1,8 +1,10 @@
 ---
 id: swarm
 title: Swarm in a nutshell  
-sidebar_label: Swarm in a nutshell 
+sidebar_label: Swarm in a nutshell
 slug: /swarm
+draft: true
+
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 

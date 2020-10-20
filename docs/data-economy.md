@@ -3,6 +3,7 @@ id: data-economy
 title: New Data Economy
 sidebar_label: New Data Economy
 slug: /data-economy
+draft: true
 ---
 
 Key takeaways:

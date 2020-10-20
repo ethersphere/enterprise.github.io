@@ -3,6 +3,8 @@ id: personium
 title: Personium
 sidebar_label: Personium
 slug: /personium
+draft: true
+
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
@@ -29,7 +31,7 @@ Personium uses the model of centralized data, but it decentralizes the hosting a
 
 In this simplified model shown in Figure 4, each individual owns a single copy of the data store. Data owners can choose to store multiple data stores hosted by multiple PDS Providers for the right reason. For example, your personal information, financial information, healthcare information and business identity can be decentralized hosted by purpose-built PDS providers to optimize the data consumption process.
 
-### Architecture and Services Components 
+### Architecture and Services Components
 
 Personium provides a web of three layered architecture which empowers individuals to manage personal data. Additional explanations are available [*here*](https://personium.io/docs/en/introduction/001_Personium_Architecture/).
 

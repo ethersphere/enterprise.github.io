@@ -3,6 +3,8 @@ id: ethereum
 title: Ethereum ecosystem role
 sidebar_label: Ethereum ecosystem role
 slug: /ethereum
+draft: true
+
 ---
 **Key takeaways:**
 
@@ -29,4 +31,3 @@ The **compliance issues of data locality** and KYC/**identity** can be solved by
 The primary audience for Swarm still remains the Ethereum community, and **Swarm can offer the third pillar needed for the world computer** and even more than that. For example, the features it offers include private messaging using the Swarm network.
 
 Furthermore, it is the energy, motivation and pursued values of the Ethereum ecosystem that should spearhead the efforts towards a fairer data economy, leading by example and empowering individuals. As the enterprise ecosystem is maturing, **the solutions must cater for interoperability** in mind, lest the efforts could be in vain and trust of users lost.
-

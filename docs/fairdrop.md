@@ -3,6 +3,8 @@ id: fairdrop
 title: Fairdrop - private file transfer
 sidebar_label: Fairdrop
 slug: /fairdrop
+draft: true
+
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
