@@ -88,7 +88,7 @@ function Home() {
           </section>
         )}
         <div className="disclaimer">
-        <p>Disclaimer: This document is not intended to constitute legal advice; instead, all information, content, and materials available in it are for general informational purposes only. The descriptions of technical implementations / integrations should not be considered technical advice; they are provided for informational purposes only and not as production ready software implementations.**
+        <p>Disclaimer: The contents of this webpage are not intended to constitute legal advice; instead, all information, content, and materials available in it are for general informational purposes only. The descriptions of technical implementations / integrations should not be considered technical advice; they are provided for informational purposes only and not as production ready software implementations.
 </p>
         </div>
       </main>
