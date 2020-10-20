@@ -2,26 +2,21 @@
 id: problems
 title: Problems
 sidebar_label: Problems
-slug: /problems
+slug: /
 draft: true
-
 ---
 
-Problems
-============
+**You want to take part in the data economy, but …**
 
-**You want to take part in the data economy, but …
-**
+-   **You believe the spoils are not distributed fairly?**
 
--   You believe the spoils are not distributed fairly?
+-   **You need access to personal data?**
 
--   You need access to personal data?
+-   **You are worried about data leaks and privacy?**
 
--   You are worried about data leaks and privacy?
+-   **You are paying through the nose for hosting and scaling?**
 
--   You are paying through the nose for hosting and scaling?
-
--   You are reliant on centrally controlled servers?
+-   **You are reliant on centrally controlled servers?**
 
 A handful of large players are controlling the data and the added value coming from the it. Is it possible to join a fairer data economy?
 
