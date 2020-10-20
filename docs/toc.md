@@ -2,7 +2,7 @@
 id: toc
 title: Table of contents
 sidebar_label: Table of contents
-slug: /
+slug: /toc
 draft: true
 ---
 
