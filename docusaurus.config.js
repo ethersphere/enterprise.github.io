@@ -8,6 +8,7 @@ module.exports = {
   organizationName: 'Swarm Association', // Usually your GitHub org/user name.
   projectName: 'enterprise.ethswarm.org', // Usually your repo name.
   themeConfig: {
+    sidebarCollapsible: false,
     navbar: {
       title: 'Swarm Enterprise Hub',
       logo: {
