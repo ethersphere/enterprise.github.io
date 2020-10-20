@@ -34,8 +34,9 @@ npm run serve >> test build files
 
 ### Deployment
 
-```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
+To auto-deploy to GH pages, tag and push tag.
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+```
+git tag -a v0.1.1 -m "v0.1.1"
+git push origin v0.1.1
+```
