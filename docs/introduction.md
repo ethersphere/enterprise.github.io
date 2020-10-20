@@ -2,13 +2,10 @@
 id: intro
 title: Introduction
 sidebar_label: Introduction
-slug: /intro
+slug: /
 draft: true
 
 ---
-
-Introduction
-============
 
 The data economy is flourishing and growing with each year - larger and larger amounts of data are being exchanged and large value is generated. In recent years, the issue of personal data mishandling has become a visible and large problem. Companies are losing trust of consumers, that they are handling their data appropriately and privacy issues are being raised in the media due to the numerous data leaks and manipulation stemming from data misuse.
 
@@ -20,4 +17,5 @@ Different business models might have to be adopted. However, new avenues open up
 
 By using Swarm, organisations gain these advantages and signal to consumers that they respect their privacy and their sovereignty over data.
 
-The whitepaper addresses these issues in more detail and provides examples of integrations of Swarm into solutions.
+The contents of Swarm Enterprise Hub are based largely on the whitepaper "Swarm storage aspects for enterprises :
+regaining of sovereignty and trust in the data economy", which addresses these issues in even more detail and provides examples of integrations of Swarm into solutions. To request access to the whitepaper please contact us [via email](mailto:enterprise@ethswarm.org).
