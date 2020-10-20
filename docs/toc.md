@@ -3,6 +3,7 @@ id: toc
 title: Table of contents
 sidebar_label: Table of contents
 slug: /
+draft: true
 ---
 
 TO DO: UPDATE LINKS
