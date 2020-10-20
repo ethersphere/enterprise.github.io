@@ -2,7 +2,7 @@
 id: problems
 title: Problems
 sidebar_label: Problems
-slug: /
+slug: /problems
 draft: true
 ---
 
