@@ -40,3 +40,9 @@ To auto-deploy to GH pages, tag and push tag.
 git tag -a v0.1.1 -m "v0.1.1"
 git push origin v0.1.1
 ```
+
+### Availability
+After deployment, site should be available at:
+
+- https://enterprise.ethswarm.org/
+- https://swarm-gateways.net/bzz:/enterprise.swarm.eth/
