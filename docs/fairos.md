@@ -3,14 +3,13 @@ id: fairos
 title: FairOS decentralized file storage
 sidebar_label: FairOS - decentralized file storage
 slug: /fairos
-draft: true
-
+draft: false
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
 ## FairOS-dfs motivation
 
-We can define the Internet operating system as “any type of operating system designed to run all of its applications and services through an Internet client …” [(“Internet OS,” 2019)](https://www.zotero.org/google-docs/?ikiHo2) . The advantages being thin clients, and the user’s applications, documents and preferences placed in the Internet cloud - the perfect platform for software as a service. FairOS will provide such an operating system.
+We can define the Internet operating system as “any type of operating system designed to run all of its applications and services through an Internet client …” (“Internet OS,” 2019) . The advantages being thin clients, and the user’s applications, documents and preferences placed in the Internet cloud - the perfect platform for software as a service. FairOS will provide such an operating system.
 
 Swarm by itself does provide for the concept of files, although is in essence a more low level provider of storage for chunks (among other possible uses). Layers have to be built on top of it, to provide functionality similar to established cloud services, such as filesystems.
 
