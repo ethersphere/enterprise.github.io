@@ -23,7 +23,7 @@ Personal data storage is at the core of self-sovereignty - it means the data is 
 
 ### Fairdrop features
 
-The storage is decentralized, but so is the Fairdrop client Dapp. It runs entirely in the browser, including all the encryption capabilities needed to keep the data end-to-end encrypted and removing the need for any third party intermediary[5].
+The storage is decentralized, but so is the Fairdrop client Dapp. It runs entirely in the browser, including all the encryption capabilities needed to keep the data end-to-end encrypted and removing the need for any third party intermediary. (Note that in case of https://fairdrop.xyz app, a gateway is used to access the Swarm network.)
 
 As the code is open sourced, more tech savvy users can run their own node, not relying on a public gateway as the middleman.
 
