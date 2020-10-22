@@ -3,8 +3,7 @@ id: fairdrive
 title: Fairdrive
 sidebar_label: Fairdrive - personal data store
 slug: /fairdrive
-draft: true
-
+draft: false
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
@@ -14,11 +13,13 @@ Fairdrive is a dApp that enables decentralized storage on Swarm. It consists of 
 
 Fairdrive consists of these parts:
 
--   Fairdrive &gt; a dapp
+-   Fairdrive &gt; a dapp.
 
--   Fairdrive.js &gt; a lightweight javascript library enabling (d)apps to use Fairdrive Connect
+-   Fairdrive.js &gt; a lightweight javascript library enabling (d)apps to use Fairdrive Connect.
 
--   Fairdrive Engine &gt; a filesystem running on Swarm
+-   Fairdrive Engine &gt; a filesystem running on Swarm (this is Fairdrive stripped down of any UI, to enable fast development of own personal data storage solutions).
+
+Enterprises can provide their own solution based on Fairdrive Engine, or the other parts.
 
 ### Fairdrive features
 
