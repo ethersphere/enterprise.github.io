@@ -4,8 +4,7 @@ module.exports = {
     //  'toc',
       'intro',
       'problems',
-
-    //   'swarm',
+      'swarm',
      ],
     // 'Data economy':['data-economy', 'catalyst', 'ethereum', 'new-paradigm', 'data-spaces', 'recommendations', ],
     // Privacy: ['privacy', 'swarm-privacy', ],
