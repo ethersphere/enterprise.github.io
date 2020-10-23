@@ -56,4 +56,4 @@ Do note that although we are mainly addressing personal data in the whitepaper, 
 
 We are sure your organisation is among those wanting to take the step in the right direction and wanting to contribute to a fair data economy, not only for the society's benefit, but also take part in the data economy for the benefit of your stakeholders.
 
-**The companies that triumph in the Fair data economy will be the leaders of tomorrow!**
+**The companies that triumph in the fair data economy will be the leaders of tomorrow!**
