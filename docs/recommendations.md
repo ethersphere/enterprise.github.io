@@ -3,10 +3,9 @@ id: recommendations
 title: Recommendations
 sidebar_label: Recommendations
 slug: /recommendations
-draft: true
+draft: false
 
 ---
-
 
 Encryption and decentralized infrastructure give way to a future where people are truly free in choice and expression. Every person can have their own personal cloud, their own digital private space.
 
@@ -19,4 +18,5 @@ Swarm offers infrastructure for private and secure storage under the control of 
 Swarm network can support both storage of data and Dapps code in a way, that if the content becomes more popular any increased traffic results in more peers join in the efforts, making the network self-scalable. This is handled by the incentive layer and rewarding peers for storage and bandwidth they provide.
 
 Data in Swarm network is split up and distributed throughout the network in a redundant fashion, by design. This also means geographic diversity. The network also reacts to local demand by providing more capacity, if needed. All the while commodity hardware is used - a network of peers, busy bees, working to provide content.
-FairOS layer that is built with Swarm as the underlying cloud infrastructure and open sourced under Fair Data Society, will offer an easy way to leverage the features offered by Swarm and will form the basis of the future for storage and computation - paving the way for the Fair data economy to emerge.
+
+[FairOS](fairos) layer that is built with Swarm as the underlying cloud infrastructure and open sourced under Fair Data Society, will offer an easy way to leverage the features offered by Swarm and will form the basis of the future for storage and computation - paving the way for the fair data economy to emerge.

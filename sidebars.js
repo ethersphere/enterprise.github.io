@@ -12,7 +12,7 @@ module.exports = {
       'ethereum',
       'new-paradigm-stub',
       'data-spaces-stub',
-    // 'recommendations',
+      'recommendations',
   ],
     'Privacy and regulation': [
       'privacy-stub',
