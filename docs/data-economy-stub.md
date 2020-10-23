@@ -1,7 +1,7 @@
 ---
 id: data-economy-stub
-title: New Data Economy
-sidebar_label: New Data Economy
+title: New data economy
+sidebar_label: New data economy
 slug: /data-economy-stub
 draft: false
 ---
