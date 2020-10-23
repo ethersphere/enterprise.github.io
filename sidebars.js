@@ -8,8 +8,8 @@ module.exports = {
      ],
     'Data economy': [
       'data-economy-stub',
-    // 'catalyst',
-    //'ethereum',
+      'individuals-stub',
+      'ethereum',
     // 'new-paradigm',
     // 'data-spaces',
     // 'recommendations',
