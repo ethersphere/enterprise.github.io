@@ -11,7 +11,7 @@ module.exports = {
       'individuals-stub',
       'ethereum',
       'new-paradigm-stub',
-    // 'data-spaces',
+      'data-spaces-stub',
     // 'recommendations',
   ],
     'Privacy and regulation': [
