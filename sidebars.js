@@ -10,7 +10,7 @@ module.exports = {
       'data-economy-stub',
       'individuals-stub',
       'ethereum',
-    // 'new-paradigm',
+      'new-paradigm-stub',
     // 'data-spaces',
     // 'recommendations',
   ],
