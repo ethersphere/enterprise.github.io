@@ -23,6 +23,6 @@ module.exports = {
     // 'Regulation': ['gdpr', 'consents',],
     'Examples of Swarm in practice': ['fairos', 'fairdrive', 'personium', 'fairdrop',],
     References: ['references',],
-    Contribution: ['acknowledgements', 'contribute',],
+    Contribution: ['acknowledgements', 'contribute', 'disclaimer'],
   },
 };
