@@ -3,18 +3,11 @@ id: individuals
 title: Individuals as the point of integration
 sidebar_label: Individuals as the point of integration
 slug: /individuals
-draft: true
+draft: false
 ---
-
-
-In the coming sections, we will tackle different perspectives where Swarm can play a major role as a catalyst for change toward the fair data society and economy. It is all around the self-sovereignty the decentralized nature of Swarm enables, the advanced privacy features and the economic changes enabled by the incentive layer.
-
-Individuals as the point of integration
----------------------------------------
 
 ***“I want my data to mean more than just be used to serve me adds!”***
 
-:::tip Key takeaways
 
 **Key takeaways:**
 
@@ -28,7 +21,6 @@ Individuals as the point of integration
 
 -   **Companies will need to adopt human centric data model to regain trust.**
 
-:::
 
 Individuals are facing a digital identity crisis. Their personal data is used by the data hoarders and they have no control over it. It is being used and misused, even leaked and hacked into. They often do not have access to it, or even if they do, they would not know what to do with it. The **guarantee of privacy** is not under their control, **based only on the trust they have towards the companies holding their data**, which is quickly decaying. The services they are getting in return are seemingly free, although in the background they are really paying with their time and attention, getting endless cookie consents as they are being served advertisements based on their digital twin profile built around their data, usually with little meaning but destroying the experience.
 
@@ -42,4 +34,4 @@ Additionally, the whole web experience can be made more secure, as the pages hos
 
 We believe **companies willing to come towards the individuals** will be inclined to use such technologies and **will gain trust by extension and a greater following as the result**.
 
-Several options are mentioned in the text, enabling individuals the benefits of Swarm for storing their data: [*Fairdrive*](#_7mslwnadll1w), [*Personium*](#_amqldpan1g42), [*Fairdrop*](#_fby04mz55c6v).
+Several examples are decribed, aiming to enable individuals the benefits of Swarm for storing their data: [*Fairdrive*](fairdrive), [*Personium*](personium), [*Fairdrop*](fairdrop), [*Midhub platform*](midhub).

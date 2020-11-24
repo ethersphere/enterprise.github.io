@@ -8,7 +8,7 @@ module.exports = {
      ],
     'Data economy': [
       'data-economy',
-      'individuals-stub',
+      'individuals',
       'ethereum-stub',
       'new-paradigm-stub',
       'data-spaces-stub',
