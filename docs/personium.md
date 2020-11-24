@@ -3,7 +3,7 @@ id: personium
 title: Personium
 sidebar_label: Personium
 slug: /personium
-draft: true
+draft: false
 
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
