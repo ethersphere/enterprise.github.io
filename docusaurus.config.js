@@ -23,6 +23,13 @@ module.exports = {
           position: 'left',
         },
         //{to: 'blog', label: 'Blog', position: 'left'},
+
+        {
+          label: 'Disclaimer',
+          to: 'docs/disclaimer',
+          position: 'right'
+        },
+
         {
           href: 'https://swarm.ethereum.org',
           label: 'Swarm',
@@ -65,6 +72,15 @@ module.exports = {
             {
               label: 'GitHub',
               href: 'https://github.com/ethersphere/',
+            },
+          ],
+        },
+        {
+          title: 'About this page',
+          items: [
+            {
+              label: 'Disclaimer',
+              to: 'docs/disclaimer',
             },
           ],
         },
