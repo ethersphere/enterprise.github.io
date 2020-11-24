@@ -7,7 +7,7 @@ module.exports = {
       'swarm',
      ],
     'Data economy': [
-      'data-economy-stub',
+      'data-economy',
       'individuals-stub',
       'ethereum-stub',
       'new-paradigm-stub',
