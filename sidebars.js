@@ -15,10 +15,9 @@ module.exports = {
       'recommendations',
   ],
     'Privacy and regulation': [
+      'gdpr',
       'privacy-stub',
-      'gdpr-stub',
       'swarm-privacy-stub',
-
     ],
     // 'Regulation': ['gdpr', 'consents',],
     'Examples of Swarm in practice': ['fairos', 'fairdrive', 'personium', 'fairdrop', 'midhub'],
