@@ -9,6 +9,13 @@ module.exports = {
   projectName: 'enterprise.ethswarm.org', // Usually your repo name.
   themeConfig: {
     sidebarCollapsible: false,
+    announcementBar: {
+      "id":"supportus",
+      "content":"Please read the full <a href='/docs/disclaimer'>disclaimer</a>.",
+      "backgroundColor":"#fff",
+      "textColor":"#000",
+      "isCloseable":true,
+    },
     navbar: {
       title: 'Swarm Enterprise Hub',
       logo: {
@@ -37,6 +44,7 @@ module.exports = {
         },
       ],
     },
+
     footer: {
       style: 'dark',
       links: [
