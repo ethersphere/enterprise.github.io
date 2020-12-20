@@ -11,7 +11,7 @@ module.exports = {
     sidebarCollapsible: false,
     announcementBar: {
       "id":"supportus",
-      "content":"Please read the full <a href='/docs/disclaimer'>disclaimer</a>.",
+      "content":"The content of this website is created collaboratively by the Swarm community (see <a href='/docs/acknowledgements'>acknowledgements page</a>). The views expressed on this website are therefore not the views of Swarm Association or its respective affiliates. Nothing within this website and post constitutes investment, legal, technical or other advice. Please read the full <a href='/docs/disclaimer'>disclaimer</a>.",
       "backgroundColor":"#fff",
       "textColor":"#000",
       "isCloseable":true,

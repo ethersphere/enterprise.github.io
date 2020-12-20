@@ -88,7 +88,7 @@ function Home() {
           </section>
         )}
         <div className="disclaimer">
-        <p>Disclaimer: The contents of this webpage are not intended to constitute legal advice; instead, all information, content, and materials available in it are for general informational purposes only. The descriptions of technical implementations / integrations should not be considered technical advice; they are provided for informational purposes only and not as production ready software implementations.
+        <p>Disclaimer: The content of this website is created collaboratively by the Swarm community (see <a href='/docs/acknowledgements'>acknowledgements page</a>). The views expressed on this website are therefore not the views of Swarm Association or its respective affiliates. Nothing within this website and post constitutes investment, legal, technical or other advice. Please read the full <a href='/docs/disclaimer'>disclaimer</a>.
 </p>
         </div>
       </main>
