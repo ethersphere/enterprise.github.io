@@ -45,4 +45,3 @@ git push origin v0.1.1
 After deployment, site should be available at:
 
 - https://enterprise.ethswarm.org/
-- https://swarm-gateways.net/bzz:/enterprise.swarm.eth/
